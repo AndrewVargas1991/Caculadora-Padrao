@@ -1,4 +1,4 @@
-Instruções de uso do programa de Hash para arquivos
+Instruções de uso da Calculadora
 
 1- Abra o programa Calculadora.pyw com o interpretador do Python;
 OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
